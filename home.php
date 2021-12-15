@@ -11,7 +11,7 @@ ini_set('display_errors', 1);
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Home Page </title>
 
-    <link href="css/htmlstyles.css" rel="stylesheet">
+    <link href="htmlstyles.css" rel="stylesheet">
 	</head>
 
   <body>
